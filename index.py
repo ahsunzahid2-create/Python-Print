@@ -13,3 +13,8 @@ name2='Nafisa'
 print(f'Now I Will Use Variable Stroing Values Like:{a},{b},{name1},{name2}')
 print('So Lets Combine','5','with','10986')
 print(f'The result is {a+b}')
+
+# keyword module
+
+import keyword
+print(keyword.kwlist)
